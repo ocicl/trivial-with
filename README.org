@@ -1,0 +1,9 @@
+* trivial-with
+
+Replace nested with-xxx invocations with a single with:all form.
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/stacksmith/trivial-with.git |
+| commit  | 2fd8ca5                                             |
+| systems | trivial-with                                        |
+|---------+-----------------------------------------------------|
